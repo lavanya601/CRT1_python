@@ -1,0 +1,12 @@
+t1=(1,1,1,2,3)
+t2=(6,7,8,1,2)
+print(t1)
+print(t2)
+print(len(t1))
+print(max(t1))
+print(min(t1))
+print(t1.index(3))
+print(type(t1))
+t3=t1+t2
+print(t3)
+print(t1[0:4])
